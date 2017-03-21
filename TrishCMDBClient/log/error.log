@@ -1,0 +1,55 @@
+2017-03-11 16:04:22,790  - ERROR :  expected string or bytes-like object
+2017-03-11 16:05:13,964  - ERROR :  expected string or bytes-like object
+2017-03-11 16:05:17,116  - ERROR :  expected string or bytes-like object
+2017-03-11 18:25:23,864  - ERROR :  expected string or bytes-like object
+2017-03-11 18:25:52,548  - ERROR :  expected string or bytes-like object
+2017-03-11 18:27:21,305  - ERROR :  expected string or bytes-like object
+2017-03-11 18:31:56,325  - ERROR :  expected string or bytes-like object
+2017-03-11 18:39:12,662  - ERROR :  expected string or bytes-like object
+2017-03-11 19:06:09,414  - ERROR :  expected string or bytes-like object
+2017-03-11 19:15:04,449  - ERROR :  expected string or bytes-like object
+2017-03-11 19:15:56,008  - ERROR :  expected string or bytes-like object
+2017-03-11 19:16:07,421  - ERROR :  expected string or bytes-like object
+2017-03-11 19:17:33,339  - ERROR :  expected string or bytes-like object
+2017-03-11 19:20:35,788  - ERROR :  expected string or bytes-like object
+2017-03-11 19:21:54,711  - ERROR :  post_asset: expected string or bytes-like object
+2017-03-11 19:32:46,684  - ERROR :  post_asset: expected string or bytes-like object
+2017-03-11 19:33:39,797  - ERROR :  post_asset: expected string or bytes-like object
+2017-03-11 19:34:35,758  - ERROR :  post_asset: request() got an unexpected keyword argument 'header'
+2017-03-11 19:35:01,635  - ERROR :  post_asset: expected string or bytes-like object
+2017-03-11 19:35:39,003  - ERROR :  post_asset: expected string or bytes-like object
+2017-03-11 19:53:17,454  - ERROR :  post_asset: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2017-03-11 19:56:37,913  - ERROR :  post_asset: expected string or bytes-like object
+2017-03-11 19:56:52,591  - ERROR :  post_asset: expected string or bytes-like object
+2017-03-11 20:02:12,821  - ERROR :  post_asset: expected string or bytes-like object
+2017-03-11 20:03:21,995  - ERROR :  post_asset: expected string or bytes-like object
+2017-03-11 20:04:35,184  - ERROR :  post_asset: expected string or bytes-like object
+2017-03-11 20:04:45,973  - ERROR :  post_asset: expected string or bytes-like object
+2017-03-11 20:05:33,651  - ERROR :  post_asset: expected string or bytes-like object
+2017-03-11 20:05:36,512  - ERROR :  post_asset: expected string or bytes-like object
+2017-03-11 20:05:47,544  - ERROR :  post_asset: expected string or bytes-like object
+2017-03-11 20:05:55,429  - ERROR :  post_asset: expected string or bytes-like object
+2017-03-11 20:14:21,349  - ERROR :  post_asset: expected string or bytes-like object
+2017-03-11 20:15:12,722  - ERROR :  post_asset: expected string or bytes-like object
+2017-03-12 14:59:20,310  - ERROR :  API authorization failed
+2017-03-12 15:00:11,093  - ERROR :  API authorization failed
+2017-03-12 15:00:33,996  - ERROR :  API authorization failed
+2017-03-12 15:01:24,169  - ERROR :  API authorization failed
+2017-03-12 15:04:04,038  - ERROR :  API authorization failed
+2017-03-12 15:07:36,092  - ERROR :  post_asset: name 'headers' is not defined
+2017-03-12 15:07:59,798  - ERROR :  API authorization failed
+2017-03-12 15:08:34,190  - ERROR :  API authorization failed
+2017-03-12 15:10:11,899  - ERROR :  API authorization failed
+2017-03-12 15:14:03,361  - ERROR :  API authorization failed
+2017-03-12 15:14:30,611  - ERROR :  API authorization failed
+2017-03-12 15:14:47,196  - ERROR :  API authorization failed
+2017-03-12 15:21:47,649  - ERROR :  API authorization failed
+2017-03-12 15:37:26,118  - ERROR :  API authorization failed
+2017-03-12 15:37:50,773  - ERROR :  API authorization failed
+2017-03-12 15:38:50,134  - ERROR :  API authorization failed
+2017-03-12 15:44:13,563  - ERROR :  API authorization failed
+2017-03-12 15:44:51,127  - ERROR :  API authorization failed
+2017-03-12 16:05:22,333  - ERROR :  API authorization failed
+2017-03-12 16:45:24,359  - ERROR :  post_asset: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2017-03-12 16:45:48,534  - ERROR :  API authorization failed
+2017-03-12 16:46:11,719  - ERROR :  API authorization failed
